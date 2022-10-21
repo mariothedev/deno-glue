@@ -4,5 +4,5 @@ import { array } from "https://cdn.pika.dev/fp-ts@^2.4.4";
 console.log("Done:", array);
 
 serve(async (req) => {
-  return new Response("Not Found", { status: 404 });
+  return new Response("Not Again", { status: 404 });
 });
