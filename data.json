@@ -1,0 +1,11 @@
+{
+  "sentences": [
+    { "text": "I love hot dogs", "source": "http://test.com" },
+    { "text": "I love cars", "source": "http://test.com" },
+    { "text": "I love houses", "source": "http://test.com" },
+    { "text": "I love cats", "source": "http://test.com" },
+    { "text": "I love books", "source": "http://test.com" },
+    { "text": "I love bikes", "source": "http://test.com" },
+    { "text": "I love coding", "source": "http://test.com" }
+  ]
+}
